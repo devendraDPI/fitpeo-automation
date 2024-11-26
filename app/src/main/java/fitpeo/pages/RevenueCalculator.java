@@ -95,11 +95,7 @@ public class RevenueCalculator {
      */
     public void updatePatientTextBox(int value) {
         try {
-            patientTextBox.click();
-            int val = patientTextBox.getAttribute("value").length();
-            for (int i=0; i<=val; i++) {
-                patientTextBox.sendKeys(Keys.BACK_SPACE);
-            }
+            patientTextBox.sendKeys(Keys.CONTROL, "A");
             patientTextBox.sendKeys(String.valueOf(value));
         } catch (Exception e) {
             e.printStackTrace();
