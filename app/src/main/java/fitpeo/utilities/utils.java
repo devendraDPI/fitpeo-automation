@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 /**
  * Utility methods.
  */
-public class utils {
+public class Utils {
     /**
      * Scrolls the viewport to make the given element visible.
      *

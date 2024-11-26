@@ -9,7 +9,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 
-import fitpeo.utilities.utils;
+import fitpeo.utilities.Utils;
 
 /**
  * FitPeo Revenue Calculator page and contains Revenue Calculator methods.
@@ -41,7 +41,7 @@ public class RevenueCalculator {
      * Scrolls to the Medicare Eligible Patients section.
      */
     public void scrollToMedicareEligiblePatients() {
-        utils.scrollToViewport(driver, revenueCalculatorSection);
+        Utils.scrollToViewport(driver, revenueCalculatorSection);
     }
 
     /**
