@@ -119,4 +119,4 @@
 ## Video
 * Watch the execution of the automated tests on YouTube
 
-[![YouTube](https://i9.ytimg.com/vi/XmMecvNgG9I/mqdefault.jpg?v=674592ce&sqp=CMSslroG&rs=AOn4CLAHXqcNZoJLeOz5rANMTZf0WOv91g)](https://www.youtube.com/watch?v=XmMecvNgG9I "FitPeo Automation")
+[![FitPeo Automation YouTube Video](https://img.youtube.com/vi/XmMecvNgG9I/maxresdefault.jpg)](https://youtu.be/XmMecvNgG9I "FitPeo Automation YouTube Video")
